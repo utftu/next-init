@@ -1,0 +1,29 @@
+{
+  "name": "next-init",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.2.0",
+    "formik": "^2.2.9",
+    "json-case": "^1.0.7",
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-query": "^3.16.1",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.2.6",
+    "babel-plugin-inline-react-svg": "^2.0.1",
+    "postcss": "^8.3.0",
+    "prettier": "2.3.1",
+    "prop-types": "^15.7.2",
+    "tailwindcss": "^2.1.4"
+  }
+}
